@@ -43,9 +43,15 @@ Open your web browser and navigate to http://localhost:3001 to access the applic
 
 This project is licensed under the MIT License.
 
-## Contributing
+## Contributors
 
-Contributions are welcome! 
+- https://github.com/priyakumi
+
+- https://github.com/Pokepoison
+  
+- https://github.com/hyperlitz
+
+- https://github.com/fabioesilveira
 
 ## Website
 https://tracksav3r-d599d83f03d0.herokuapp.com/
