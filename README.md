@@ -3,9 +3,6 @@
 ## Description
 Track_Saver is a web application designed to help users track their income, expenses, and savings, making it easier to manage their financial goals.
 
-## Slide Show
-[https://docs.google.com/presentation/d/1WhHxIcH4ZazptrUMpP9Iyn0dZ1IObXeDdB5QJ196KcM/edit#slide=id.p](url)
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
